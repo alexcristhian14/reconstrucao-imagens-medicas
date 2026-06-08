@@ -52,4 +52,4 @@ O código gera e compara três métodos de reconstrução aplicados sobre uma im
 
 ## Comparação dos Métodos
 
-![Comparação dos Métodos](resultados/comparacao_reconstrucao.png)
+![Comparação dos Métodos](resultado.png)
